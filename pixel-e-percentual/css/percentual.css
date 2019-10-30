@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+}
+
+html{
+	font-size: 62.5%;
+}
+
+.container{
+	background-color: yellow;
+	width: 1000px;
+}
+
+.caixa{
+	width: 50%;
+	font-size: 200%;
+	background-color: #ccc;
+	border: 5px solid black;
+	padding: 10%;
+	margin-top: 10%;
+}
+
+h1{
+	font-size: 250%;
+}
+
+p{
+	font-size: 150%;
+}

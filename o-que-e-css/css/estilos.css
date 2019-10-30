@@ -1,0 +1,35 @@
+
+/*
+	Comentário
+
+.missao strong{
+	color: blue;
+}
+
+article strong{
+	color: blue;
+}
+#titulo, .missao{
+	font-family: Arial;
+}
+
+.introducao, .missao{
+	color: red;
+}
+article .missao strong{
+	color: green;
+}
+article > .importante {
+	color: red;
+}
+
+article > .importante > strong {
+	color: red;
+}
+
+*/
+
+article .importante > strong{
+	color: red;
+}
+
